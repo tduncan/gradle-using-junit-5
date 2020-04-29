@@ -1,2 +1,2 @@
-rootProject.name = "gradle-template"
+rootProject.name = "gradle-using-junit-5"
 
